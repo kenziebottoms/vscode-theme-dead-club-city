@@ -1,5 +1,5 @@
 {
-  "name": "replicant",
+  "name": "dead-club-city",
   "displayName": "Dead Club City Theme",
   "description": "A Nothing But Thieves-inspired theme for VS Code",
   "version": "1.3.0",
@@ -16,7 +16,7 @@
       {
         "label": "Dead Club City",
         "uiTheme": "vs-dark",
-        "path": "./themes/deadClubCity.json"
+        "path": "./themes/dead-club-city.json"
       }
     ]
   },
