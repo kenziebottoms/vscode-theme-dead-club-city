@@ -15,10 +15,11 @@
 ## Supported Languages
 
 - Explicitly written for
-    - SCSS
+    - CSS
+      - SCSS
     - Java
     - JavaScript
-    - React
+      - React
     - Python
     - Vue
 - Spot-checked for
@@ -33,7 +34,8 @@
 - [Javascript](#javascript)
   - [React](#react)
 - [Ruby](#ruby)
-- [SCSS](#scss)
+- [CSS](#css)
+  - [SCSS](#scss)
 - [Java](#java)
 - [Swift](#swift)
 
@@ -43,7 +45,7 @@
 
 ### Javascript
 
-![Javascript](previews/js.png)
+![Javascript](previews/javascript.png)
 
 #### React
 
@@ -53,10 +55,13 @@
 
 ![Ruby](previews/ruby.png)
 
-### SCSS
+### CSS
+
+![CSS](previews/css.png)
+
+#### SCSS
 
 ![SCSS](previews/scss.png)
-
 
 ### Java
 
